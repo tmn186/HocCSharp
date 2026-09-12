@@ -1,0 +1,14 @@
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.AssemblyInfoInputs.cache
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.AssemblyInfo.cs
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.csproj.CoreCompileInputs.cache
+/Users/nguyentan/HocCSharp/bin/Debug/net10.0/HocCSharp
+/Users/nguyentan/HocCSharp/bin/Debug/net10.0/HocCSharp.deps.json
+/Users/nguyentan/HocCSharp/bin/Debug/net10.0/HocCSharp.runtimeconfig.json
+/Users/nguyentan/HocCSharp/bin/Debug/net10.0/HocCSharp.dll
+/Users/nguyentan/HocCSharp/bin/Debug/net10.0/HocCSharp.pdb
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.dll
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/refint/HocCSharp.dll
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.pdb
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/HocCSharp.genruntimeconfig.cache
+/Users/nguyentan/HocCSharp/obj/Debug/net10.0/ref/HocCSharp.dll
